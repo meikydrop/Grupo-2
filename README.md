@@ -1,2 +1,7 @@
-# grupo-de-elian
-ete e mi grupo 
+GRUPO:
+
+KARLA
+EMELY
+JOSUE
+YOHANSE
+ELIAN
